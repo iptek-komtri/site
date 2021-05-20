@@ -10,3 +10,11 @@
 section {
     padding-top: 5rem;
 }
+
+.jumbotron img {
+    transition: 0.3s;
+}
+
+.jumbotron img:hover {
+    transform: scale(2);
+}
