@@ -1,0 +1,55 @@
+.container {
+    width: 800px;
+    margin: 40px auto;
+}
+
+.judul {
+    text-align: center;
+}
+
+.judul h1{
+    margin-bottom: -10px;
+}
+
+.judul .oleh{
+    font-size: 14px;
+    color: #666;
+}
+
+.ilustrasi {
+    text-align: center;
+}
+
+.ilustrasi img {
+    width: 500px;
+}
+
+.isi ol li {
+    margin-top: 1px;
+}
+.isi li {
+    font-weight: bold;
+}
+
+.isi p {
+    text-align: justify;
+}
+
+img.gambar {
+    margin: 2px 0;
+}
+
+.back a {
+    position: fixed;
+    top: 50%;
+    left: 10px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    width: 80px;
+    text-align: center;
+}
