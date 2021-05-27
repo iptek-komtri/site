@@ -4,6 +4,12 @@
     margin-bottom: -30px;
 }
 
+#poster {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
 #card-blog {
     background-color: #e2edff;
 }
